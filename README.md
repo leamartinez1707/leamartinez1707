@@ -34,6 +34,6 @@ Leandro Martínez</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/leamartinez1707">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/leamartinez1707/leamartinez1707/blob/main/CV%20English.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+					<img width=40 src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" ></a>
       </div>
 </p>
