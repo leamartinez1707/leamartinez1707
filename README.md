@@ -20,7 +20,7 @@ Leandro Martínez</a></h1>
 
 - 📫 Contact with me **leandromartinez.dev@gmail.com**
 
-- 📄 Know about my experiences <a href="#" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/leamartinez1707/leamartinez1707/blob/main/CV%20English.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -33,7 +33,7 @@ Leandro Martínez</a></h1>
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/leamartinez1707">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="#">
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/leamartinez1707/leamartinez1707/blob/main/CV%20English.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 </p>
