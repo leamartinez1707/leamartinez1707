@@ -34,8 +34,10 @@ Leandro Martínez</a></h1>
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/leamartinez1707/leamartinez1707/blob/main/CV%20English.pdf">
 					<img width=40 src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" ></a>
+
+  ![](https://komarev.com/ghpvc/?username=leamartinez1707)
       </div>
-<p <img src="https://komarev.com/ghpvc/?username=leamartinez1707&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas de perfil leamartinez1707" /> </p>
+      
 </p>
 
 <br/>
