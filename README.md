@@ -16,11 +16,12 @@ Leandro Martínez</a></h1>
 
 - 📝 I rarely write posts on my Linkedin
 
-- 💬 Ask me about **Reactjs & Node.js**
+- 💬 Main technologies **Reactjs & Express | NestJS & Next**
 
 - 📫 Contact with me **leandromartinez.dev@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/leamartinez1707/leamartinez1707/blob/main/CV%20English.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences [SPANISH] <a href="https://github.com/leamartinez1707/leamartinez1707/blob/main/CV%20Spanish.pdf" target="blank">Curriculum</a>
 <br/>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
