@@ -10,13 +10,9 @@ Leandro Martínez</a></h1>
 
 - 🌱 I’m currently Working on Web Apps (Backend && Frontend)
 
-- 🤝 I’m available for work proposals .
+- 🤝 I’m available for work proposals.
 
-- 🌱 I’m currently learning Nest && Next
-
-- 📝 I rarely write posts on my Linkedin
-
-- 💬 Main technologies **Reactjs & Express | NestJS & Next**
+- 💬 Main technologies **React & Next.js | Express & NestJS **
 
 - 📫 Contact with me **leandromartinez.dev@gmail.com**
 
