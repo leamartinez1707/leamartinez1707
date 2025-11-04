@@ -8,11 +8,11 @@ Leandro Martínez</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on Web Apps (Backend && Frontend)
+- 🌱 I’m currently studying Full Stack Development
 
-- 🤝 I’m available for work proposals.
+- 🤝 I’m available for work proposals for Trainee or Junior positions.
 
-- 💬 Main technologies **React & Next.js | Express & NestJS **
+- 💬 Main technologies **React & Next.js | Express & NestJS | SQL & NoSQL Databases **
 
 - 📫 Contact with me **leandromartinez.dev@gmail.com**
 
