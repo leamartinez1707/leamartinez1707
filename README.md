@@ -1,69 +1,86 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/leandromartinezuy/" target="_blank">Leandro Martínez</a></h1>
-<h3 align="center">💻 Full Stack Developer | React • Next.js • Node.js | From Montevideo, Uruguay 🇺🇾</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding GIF" />
-</p>
-
----
+<h3 align="center">
+Full Stack Developer · React · Next.js · Node.js · SaaS Builder  
+<br/>
+Montevideo, Uruguay 🇺🇾
+</h3>
 
 ### 👨‍💻 About Me
 
-- 🚀 Passionate about building modern, scalable web applications that solve real-world problems.  
-- 🌱 Currently expanding my skills in **Full Stack Development** with a focus on **React**, **Next.js**, **Node.js**, **NestJS**, and **databases (SQL & NoSQL)**.  
-- 💼 Open to **Junior or Trainee developer positions**, freelance projects, and collaborations.  
-- 🌍 Portfolio: [www.leandromartinez.com.uy](https://www.leandromartinez.com.uy)  
-- 📫 Contact me: **leandromartinez.dev@gmail.com**  
+I'm a **Full Stack Developer** focused on building **real, production-ready web applications** from scratch.
 
----
+I work mainly with **React, Next.js and Node.js**, and I enjoy turning ideas into functional products — from database design and APIs to UI and deployment.
 
-### 🧠 My Tech Stack
+Currently, I'm:
+- 🚀 Building and iterating on **SaaS products**
+- 🧠 Improving my backend architecture and database design
+- 💼 Open to **Junior roles** or projects where I can grow while delivering real value
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgresql,git,github,tailwind,aws,vercel" />
-</p>
+🌍 Portfolio: https://www.leandromartinez.com.uy  
+📫 Contact: leandromartinez.dev@gmail.com
 
----
+### 🧠 Tech Stack
 
-### 📄 Resume
+**Frontend:** React, Next.js, TypeScript, Tailwind
+**Backend:** Node.js, Express, NestJS  
+**Databases:** PostgreSQL, MongoDB, Supabase, Prisma, Mongoose
+**DevOps & Tools:** Git, GitHub, AWS, Vercel, Railway, Render, Docker (learning)
 
-- [View Resume (English)](https://github.com/leamartinez1707/leamartinez1707/blob/main/CV%20English.pdf)  
-- [Ver Curriculum (Español)](https://github.com/leamartinez1707/leamartinez1707/blob/main/CV%20Spanish.pdf)
+### 📌 Featured Projects
 
----
+### 🔧 UruFix – Multi-Tenant SaaS for Technical Services
 
-### 🤝 Connect With Me
+Multi-tenant web platform designed to **manage technical service businesses**, with role-based access and isolated data per organization.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/leandromartinezuy/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/linkedin--v2.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/leamartinez1707" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/github--v1.png" alt="GitHub"/>
-  </a>
-  <a href="mailto:leandromartinez.dev@gmail.com">
-    <img src="https://img.icons8.com/doodle/40/gmail-new.png" alt="Email"/>
-  </a>
-</p>
+**What I built:**
+- Full-stack architecture (frontend + backend)
+- Multi-tenant data isolation strategy per organization
+- Authentication and authorization with **JWT and roles**
+- Core features: clients, services, scheduling, time tracking and notifications
+- Subscription and payments integration with **Mercado Pago**
+- Charts and dashboards using **Recharts**
 
----
+**Tech stack:**
+React · TanStack Query · Tailwind · Node.js · Express · MongoDB · JWT · Recharts · Vercel · Railway
 
-### 📊 GitHub Stats
+🔗 Live Demo - https://urufix.com/
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leamartinez1707&show_icons=true&theme=tokyonight&count_private=true" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leamartinez1707&theme=tokyonight" width="380" />
-</p>
+### 🧰 ServyFix – Technical Services Marketplace (SaaS)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leamartinez1707&theme=tokyonight" width="520" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leamartinez1707&layout=compact&theme=tokyonight" width="320" />
-</p>
+Platform that allows users to **find and hire technical services using an interactive map**, focusing on proximity, availability and transparent pricing.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leamartinez1707&style=flat-square&color=blue" alt="Profile views counter" />
-</p>
+**What I built:**
+- Frontend architecture with React and TypeScript
+- Interactive geolocation map using **Leaflet**
+- Global state management with **React Context**
+- Server state and caching with **TanStack Query**
+- Payment flow integration with **Mercado Pago**
+- Animations and UX improvements with **Framer Motion**
 
----
+**Tech stack:**
+React · TypeScript · TanStack Query · Context API · Leaflet · Mercado Pago · Framer Motion · Vercel
 
-⭐️ *“Building clean, user-focused software and growing one commit at a time.”*  
+🔗 Live Demo - https://www.servyfix.com/
+
+### 🧪 SaludNet & SubastArt – Full Stack Projects
+
+Collaborative projects developed under **work-simulation environments**, following real-world development workflows.
+
+**What I worked on:**
+- Frontend features with React and TypeScript
+- API integration and client-server communication
+- Authentication flows and REST APIs
+- Git-based collaboration and feature-driven development
+
+**Tech stack:**
+React · TypeScript · Node.js · Express · Databases · Git · GitHub
+
+🔗 Repositories
+
+SubastArt - https://github.com/No-Country-simulation/s20-04-n
+SaludNet - https://saludnet.vercel.app/
+
+### Portfolio
+
+🔗 https://www.leandromartinez.com.uy/
+
+### I focus on building real products, learning fast, and improving with every iteration.
