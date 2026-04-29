@@ -29,9 +29,11 @@ Currently, I'm:
 
 ### 🔧 UruFix – Multi-Tenant SaaS for Technical Services
 
+> 🔒 Private repo · Client in production · Live demo available
 Multi-tenant web platform designed to **manage technical service businesses**, with role-based access and isolated data per organization.
 
 **What I built:**
+- Production app with active client — managing real technical service workflows
 - Full-stack architecture (frontend + backend)
 - Multi-tenant data isolation strategy per organization
 - Authentication and authorization with **JWT and roles**
@@ -61,7 +63,7 @@ React · TypeScript · TanStack Query · Context API · Leaflet · Mercado Pago 
 
 🔗 Live Demo - https://www.servyfix.com/
 
-### 🧪 SaludNet & SubastArt – Full Stack Projects
+### 🧪 SaludNet – NoCountry Work Simulations
 
 Collaborative projects developed under **work-simulation environments**, following real-world development workflows.
 
@@ -76,11 +78,10 @@ React · TypeScript · Node.js · Express · Databases · Git · GitHub
 
 🔗 Repositories
 
-SubastArt - https://github.com/No-Country-simulation/s20-04-n
-SaludNet - https://saludnet.vercel.app/
+SaludNet - https://saludnet.vercel.app/ - https://github.com/leamartinez1707/c20-37-n-node-react.
 
 ### Portfolio
 
 🔗 https://www.leandromartinez.com.uy/
 
-### I focus on building real products, learning fast, and improving with every iteration.
+### I focus on shipping real products, not just learning. If you're looking for a junior who can deliver — let's talk. 📩
